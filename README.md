@@ -1,6 +1,6 @@
 ####  Princeton University
-# Algorithms
-Course materials from the **Algorithms** course by [Princeton University](https://www.princeton.edu/) on [Coursera](https://www.coursera.org/)
+# Algorithms, Part I
+Course materials from the **Algorithms, Part I** course by [Princeton University](https://www.princeton.edu/) on [Coursera](https://www.coursera.org/)
 
 ### Taught by 
 - [Robert Sedgewick](https://www.coursera.org/instructor/~250165), *William O. Baker '39 Professor of Computer Science*, Princeton Univeristy
